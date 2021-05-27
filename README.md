@@ -1,2 +1,2 @@
-# cv-maker2
+# cv-maker
 Created with CodeSandbox

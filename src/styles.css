@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;500&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.ff-Inconsolata {
+  font-family: "Inconsolata";
+}
+
+.ff-Inconsolata-Bold {
+  font-weight: bold;
+  font-family: "Inconsolata";
+}
+
+.text-right {
+  text-align: right;
+}
+
+.hover-border-blue:hover {
+  border: 1px solid blue;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
